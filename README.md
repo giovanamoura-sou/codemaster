@@ -10,25 +10,25 @@ Certas interações da página ainda não possuem comportamento dinâmico, pois 
 
 ## Lista de Tarefas
 
-[ ] 1.Menu mobile
+[x] 1.Menu mobile
 
-[ ] 2.Navegação Ativa
+[x] 2.Navegação Ativa
 
-[ ] 3.Alternar modo claro/escuro
+[x] 3.Alternar modo claro/escuro
 
-[ ] 4.Animação do título
+[x] 4.Animação do título
 
-[ ] 5.Animação da seção home
+[x] 5.Animação da seção home
 
-[ ] 6.Animação da seções
+[x] 6.Animação da seções
 
-[ ] 7.Botão de voltar ao topo
+[x] 7.Botão de voltar ao topo
 
-[ ] 8.Carrossel de projetos
+[x] 8.Carrossel de projetos
 
-[ ] 9. Formulário de contato
+[x] 9. Formulário de contato
 
-[ ] 10.atuação da seção "Sobre mim"
+[x] 10.atuação da seção "Sobre mim"
 
 ## 🛠 Tecnologias Utilizadas
 
