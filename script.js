@@ -143,9 +143,10 @@ const observer = new IntersectionObserver((entries) => {
 // Observa cada seção para aplicar a animação
 sections.forEach((section) => observer.observe(section));
 
-// ========================= BOTÃO DE VOLTAR AO TOPO ====================
+// ======================== BOTÃO DE VOLTAR AO TOPO ====================
 // Adiciona um evento de clique ao botão de voltar ao topo
 document.querySelector(".top a").addEventListener("click", (e) => {
   e.preventDefault();
   window.scrollTo({ top: 0, behavior: "smooth" }); // Rola suavemente para o topo da página
 });
+
